@@ -1,0 +1,135 @@
+.button {
+    height: 31px;
+}
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+hr {
+    border-top: 1px solid black;
+}
+.card {
+    margin-bottom: 20px;
+}
+.img img {
+    width: 122px; 
+}
+.fullname {
+    letter-spacing: 5px;
+}
+.sentence {
+    letter-spacing: 3px;
+    color: rgba(0, 0, 0, 0.3);
+}
+.name h2 {
+    font-weight: 700;
+}
+.personal, .objective {
+    font-weight: 360;
+    font-size: 14px;
+}
+.personal .label_p {
+    font-weight: 650;
+}
+.education {
+    font-weight: 360;
+    font-size: 14px;
+}
+.education .label_e h5 {
+    font-weight: 650;
+}
+.education .label_e1 {
+    font-weight: 500;
+}
+.education a {
+    font-weight: 550;
+    font-size: 17.5px;
+}
+.seminars {
+    font-weight: 360;
+    font-size: 14px;
+}
+.seminars .label_s h5 {
+    font-weight: 650;
+}
+.seminars span.title {
+    font-weight: 550;
+    font-size: 17.5px;
+}
+.cyber-div {
+    margin-bottom: 15px;
+}
+.work {
+    font-weight: 360;
+    font-size: 14px;
+}
+.work .label_w h5 {
+    font-weight: 650;
+}
+.work span.title {
+    font-weight: 550;
+    font-size: 17.5px;
+}
+.skills {
+    font-weight: 360;
+    font-size: 14px;
+}
+.skills .label_sk h5 {
+    font-weight: 650;
+}
+.skills div.title {
+    font-weight: 550;
+    font-size: 17.5px;
+}
+.awards {
+    font-weight: 360;
+    font-size: 14px;
+}
+.awards .label_a h5 {
+    font-weight: 650;
+}
+.progress-bar {
+    width: 100%;
+    height: 20px;
+}
+.social-icon, .github-icon {
+    display: inline-block;
+    width: 25px; 
+    height: 25px; 
+    border-radius: 50%; 
+    background-color: black;
+    text-align: center;
+    line-height: 20px;
+    transition: all 0.3s ease; 
+}
+.social-icon i, .github-icon i {
+    font-size: 10px;
+    line-height: 10px;
+}
+.social-icon:hover {
+    transform: scale(1.2); 
+}
+.social-icon i {
+    font-size: 10px;
+    line-height: 25px; 
+}
+.github-icon:hover {
+    background-color: #3366CC; 
+    transform: scale(1.2); 
+}
+.github-icon i {
+    font-size: 10px;
+    line-height: 25px; 
+}
+.name {
+    margin-bottom: 70px;
+}
+.nameee.text-uppercase {
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.7);
+    letter-spacing: 4px;
+}
+.alert-pdf {
+    width: auto;
+    margin: 10px auto;
+}
+
